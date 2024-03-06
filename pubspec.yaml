@@ -1,0 +1,7 @@
+name: resourcesidentifier
+
+environment:
+  sdk: ^3.4.0-97.0.dev
+
+dependencies:
+  meta: ^1.12.0
